@@ -45,6 +45,7 @@ plot_tanimoto_heatmap(df)
 
 This will produce a heatmap image showing the Tanimoto similarity between the compounds listed in the CSV file.
 
+![plot](smilaritymatrix.png?raw=true)
 ## Contributing
 
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your enhancements.
